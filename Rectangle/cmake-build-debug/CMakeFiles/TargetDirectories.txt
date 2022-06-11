@@ -1,0 +1,4 @@
+/Users/yoonezi/Documents/yeziJjang/cmake-build-debug/CMakeFiles/yeziJjang.dir
+/Users/yoonezi/Documents/yeziJjang/cmake-build-debug/CMakeFiles/scratch.cpp.dir
+/Users/yoonezi/Documents/yeziJjang/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/yoonezi/Documents/yeziJjang/cmake-build-debug/CMakeFiles/rebuild_cache.dir
