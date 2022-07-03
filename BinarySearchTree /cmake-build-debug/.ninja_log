@@ -1,0 +1,17 @@
+# ninja log v5
+0	596	1656071049010820870	CMakeFiles/BinarySearchTree_.dir/main.cpp.o	fc83fcd175f99b7e
+598	662	1656071049078652172	BinarySearchTree_	c9a6aecd7e9ec556
+1	551	1656071265206872423	CMakeFiles/BinarySearchTree_.dir/main.cpp.o	fc83fcd175f99b7e
+551	601	1656071265259732448	BinarySearchTree_	c9a6aecd7e9ec556
+2	679	1656071414215507889	CMakeFiles/BinarySearchTree_.dir/main.cpp.o	fc83fcd175f99b7e
+679	781	1656071414321752120	BinarySearchTree_	c9a6aecd7e9ec556
+1	549	1656071430617238853	CMakeFiles/BinarySearchTree_.dir/main.cpp.o	fc83fcd175f99b7e
+549	600	1656071430671139531	BinarySearchTree_	c9a6aecd7e9ec556
+2	570	1656071634990089772	CMakeFiles/BinarySearchTree_.dir/main.cpp.o	fc83fcd175f99b7e
+570	626	1656071635048191182	BinarySearchTree_	c9a6aecd7e9ec556
+1	587	1656076509464932624	CMakeFiles/BinarySearchTree_.dir/main.cpp.o	fc83fcd175f99b7e
+587	641	1656076509521065694	BinarySearchTree_	c9a6aecd7e9ec556
+2	580	1656080847926783268	CMakeFiles/BinarySearchTree_.dir/main.cpp.o	fc83fcd175f99b7e
+581	632	1656080847980311559	BinarySearchTree_	c9a6aecd7e9ec556
+1	569	1656081131488819896	CMakeFiles/BinarySearchTree_.dir/main.cpp.o	fc83fcd175f99b7e
+569	628	1656081131550547707	BinarySearchTree_	c9a6aecd7e9ec556
